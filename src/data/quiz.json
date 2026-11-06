@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Apa arti kata أَرْنَبٌ (arnabun)?",
+    "options": [
+      "Kura-kura",
+      "Kelinci",
+      "Hutan",
+      "Pohon"
+    ],
+    "answer": 1,
+    "explanation": "أَرْنَبٌ (arnabun) berarti kelinci."
+  },
+  {
+    "question": "Bahasa Arab dari kura-kura adalah ...",
+    "options": [
+      "غَابَةٌ",
+      "سَرِيعٌ",
+      "سُلَحْفَاةٌ",
+      "يَنَامُ"
+    ],
+    "answer": 2,
+    "explanation": "سُلَحْفَاةٌ (sulḥafātun) berarti kura-kura."
+  },
+  {
+    "question": "Apa arti kata سَرِيعٌ (sarī'un)?",
+    "options": [
+      "Cepat",
+      "Lambat",
+      "Tidur",
+      "Menang"
+    ],
+    "answer": 0,
+    "explanation": "سَرِيعٌ (sarī'un) berarti cepat."
+  },
+  {
+    "question": "Mengapa kura-kura dapat memenangkan perlombaan?",
+    "options": [
+      "Karena kelinci membantunya",
+      "Karena kura-kura terus berusaha",
+      "Karena kura-kura terbang",
+      "Karena perlombaan dibatalkan"
+    ],
+    "answer": 1,
+    "explanation": "Kura-kura terus berjalan dan tidak menyerah."
+  },
+  {
+    "question": "Apa yang dilakukan kelinci di bawah pohon?",
+    "options": [
+      "Makan bersama",
+      "Berenang",
+      "Tidur",
+      "Menari"
+    ],
+    "answer": 2,
+    "explanation": "Kelinci berhenti dan tertidur di bawah pohon."
+  },
+  {
+    "question": "Apa pesan dari dongeng Kelinci dan Kura-kura?",
+    "options": [
+      "Kita boleh mengejek teman",
+      "Kecepatan selalu menang",
+      "Jangan berusaha",
+      "Jangan sombong dan terus berusaha"
+    ],
+    "answer": 3,
+    "explanation": "Kita harus rendah hati, tekun, dan tidak meremehkan orang lain."
+  }
+]

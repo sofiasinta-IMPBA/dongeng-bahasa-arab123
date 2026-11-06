@@ -1,0 +1,30 @@
+{
+  "title": "Kelinci dan Kura-kura",
+  "subtitle": "Dongeng tentang kesabaran dan tidak sombong",
+  "level": "Kelas 2 SD",
+  "duration": "3 menit",
+  "cover": "/images/forest-race.svg",
+  "segments": [
+    {
+      "heading": "Pagi yang cerah",
+      "illustration": "🌳",
+      "text": "Pada suatu pagi, hutan terlihat sangat indah. Seekor kelinci berlari dengan cepat di antara pepohonan. Ia bangga karena merasa dirinya paling cepat."
+    },
+    {
+      "heading": "Tantangan dimulai",
+      "illustration": "🐰",
+      "text": "Kelinci bertemu kura-kura yang berjalan perlahan. Kelinci mengejek kura-kura. Kura-kura tidak marah. Ia justru mengajak kelinci berlomba menuju pohon besar."
+    },
+    {
+      "heading": "Kelinci tertidur",
+      "illustration": "💤",
+      "text": "Saat perlombaan dimulai, kelinci berlari sangat cepat. Ia lalu berhenti untuk beristirahat dan tertidur di bawah pohon. Kura-kura terus berjalan sedikit demi sedikit."
+    },
+    {
+      "heading": "Kura-kura menang",
+      "illustration": "🏁",
+      "text": "Kura-kura akhirnya sampai di garis akhir lebih dahulu. Kelinci terbangun dan berlari, tetapi sudah terlambat. Kelinci belajar untuk tidak sombong dan tidak meremehkan orang lain."
+    }
+  ],
+  "moral": "Teruslah berusaha, jangan sombong, dan jangan meremehkan orang lain."
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "arabic": "أَرْنَبٌ",
+    "latin": "arnabun",
+    "meaning": "kelinci",
+    "emoji": "🐰",
+    "example": "أَرْنَبٌ سَرِيعٌ",
+    "exampleMeaning": "Kelinci yang cepat"
+  },
+  {
+    "id": 2,
+    "arabic": "سُلَحْفَاةٌ",
+    "latin": "sulḥafātun",
+    "meaning": "kura-kura",
+    "emoji": "🐢",
+    "example": "السُّلَحْفَاةُ بَطِيئَةٌ",
+    "exampleMeaning": "Kura-kura itu lambat"
+  },
+  {
+    "id": 3,
+    "arabic": "غَابَةٌ",
+    "latin": "ghābatun",
+    "meaning": "hutan",
+    "emoji": "🌳",
+    "example": "هٰذِهِ غَابَةٌ",
+    "exampleMeaning": "Ini adalah hutan"
+  },
+  {
+    "id": 4,
+    "arabic": "سَرِيعٌ",
+    "latin": "sarī'un",
+    "meaning": "cepat",
+    "emoji": "⚡",
+    "example": "الأَرْنَبُ سَرِيعٌ",
+    "exampleMeaning": "Kelinci itu cepat"
+  },
+  {
+    "id": 5,
+    "arabic": "بَطِيءٌ",
+    "latin": "baṭī'un",
+    "meaning": "lambat",
+    "emoji": "🐌",
+    "example": "المَشْيُ بَطِيءٌ",
+    "exampleMeaning": "Jalannya lambat"
+  },
+  {
+    "id": 6,
+    "arabic": "يَرْكُضُ",
+    "latin": "yarkuḍu",
+    "meaning": "berlari",
+    "emoji": "🏃",
+    "example": "الأَرْنَبُ يَرْكُضُ",
+    "exampleMeaning": "Kelinci sedang berlari"
+  },
+  {
+    "id": 7,
+    "arabic": "يَنَامُ",
+    "latin": "yanāmu",
+    "meaning": "tidur",
+    "emoji": "😴",
+    "example": "الأَرْنَبُ يَنَامُ",
+    "exampleMeaning": "Kelinci sedang tidur"
+  },
+  {
+    "id": 8,
+    "arabic": "يَفُوزُ",
+    "latin": "yafūzu",
+    "meaning": "menang",
+    "emoji": "🏆",
+    "example": "السُّلَحْفَاةُ تَفُوزُ",
+    "exampleMeaning": "Kura-kura menang"
+  }
+]
